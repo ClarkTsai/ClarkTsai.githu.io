@@ -177,7 +177,7 @@ section.resume-section .resume-item .resume-date {
 
 .bg-primary {
   background-color: #003036!important;
-  background-image: img/profile.jpg!important; 
+  background-image: url ("https://ClarkTsai.github.io/img/fresh-snow.png") !important; 
 }
 
 .text-primary {
