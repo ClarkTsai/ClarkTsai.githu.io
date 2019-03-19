@@ -21,7 +21,8 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-image: url("https://www.transparenttextures.com/patterns/pinstripe-dark.png");
+	background-color: #003036;
+	background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.png");	
 }
 
 .graph_set {
