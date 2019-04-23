@@ -29,8 +29,9 @@ h1 .text-primary {
 	margin-top: 3rem;
 }
 .fixed {
- position: fixed;
+  position: fixed;
   bottom: 0;
   right: 0;
   width: 200px;
+  height: 200px;
 }
