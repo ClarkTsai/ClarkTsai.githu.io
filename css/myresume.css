@@ -28,3 +28,11 @@ h1 .text-primary {
 .graph_set {
 	margin-top: 3rem;
 }
+.fixed {
+  position: fixed !important;
+  bottom: 0 !important;
+  right: 0 !important;
+  width:300px !important;
+  height:300px !important;
+  
+}
