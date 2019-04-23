@@ -191,10 +191,11 @@ a {
 a:hover, a:focus, a:active {
   color: #003036;
 }
-.ics-promotion{
+.ics-promotion {
   position: fixed;
   bottom: 0;
   right: 0;
-  width: 200px;
+  width:300px;
+  height:300px;
   
 }
